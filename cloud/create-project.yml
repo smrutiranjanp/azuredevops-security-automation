@@ -17,9 +17,9 @@ variables:
 - name: projectName
   value: 'templ-test48'
 
-- group: ados-group-names-templ-test01
-- group: ados-acls-templ-test01
-- group: ados-git-params-templ-test01
+- group: ados-group-names-templ-test48
+- group: ados-acls-templ-test48
+- group: ados-git-params-templ-test48
 - group: ados-secrets
 
 parameters:
